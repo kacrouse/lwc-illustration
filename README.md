@@ -63,7 +63,6 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 
 <img src="./media/large.png" alt="large-example" width="600"></img>
 
-
 ### [With Call to Action](https://www.lightningdesignsystem.com/components/illustration/#With-Call-to-Action)
 
 ```html
@@ -76,7 +75,6 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 ```
 
 <img src="./media/with-call-to-action.png" alt="with-call-to-action-example" width="400"></img>
-
 
 ### [Text Only](https://www.lightningdesignsystem.com/components/illustration/#Text-Only)
 
