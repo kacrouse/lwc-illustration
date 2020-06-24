@@ -2,7 +2,7 @@
 
 The [SLDS Illustration component blueprint](https://www.lightningdesignsystem.com/components/illustration/) as a Lightning Web Component. Also usable in Lightning App Builder.
 
-![example](./media/base.png)
+<img src="./media/base.png" alt="example" width="400"></img>
 
 # Installation
 
@@ -36,7 +36,7 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 ></c-illustration>
 ```
 
-![base-example](./media/base.png)
+<img src="./media/base.png" alt="base-example" width="400"></img>
 
 ### [With Message Body](https://www.lightningdesignsystem.com/components/illustration/#With-Message-Body)
 
@@ -48,7 +48,7 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 ></c-illustration>
 ```
 
-![with-message-body-example](./media/with-message-body.png)
+<img src="./media/with-message-body.png" alt="with-message-body-example" width="400"></img>
 
 ### [Large](https://www.lightningdesignsystem.com/components/illustration/#Large-Illustrations)
 
@@ -61,7 +61,8 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 ></c-illustration>
 ```
 
-![large-example](./media/large.png)
+<img src="./media/large.png" alt="large-example" width="600"></img>
+
 
 ### [With Call to Action](https://www.lightningdesignsystem.com/components/illustration/#With-Call-to-Action)
 
@@ -74,7 +75,8 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 </c-illustration>
 ```
 
-![with-call-to-action-example](./media/with-call-to-action.png)
+<img src="./media/with-call-to-action.png" alt="with-call-to-action-example" width="400"></img>
+
 
 ### [Text Only](https://www.lightningdesignsystem.com/components/illustration/#Text-Only)
 
@@ -86,4 +88,4 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 ></c-illustration>
 ```
 
-![text-only-example](./media/text-only.png)
+<img src="./media/text-only.png" alt="text-only-example" width="300"></img>
