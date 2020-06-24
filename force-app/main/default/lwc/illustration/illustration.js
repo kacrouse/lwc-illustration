@@ -14,7 +14,8 @@ export default class Illustration extends LightningElement {
   /**
    * Text displayed below `heading` to provide further description about the why
    * the illustration is being displayed. Can also be populated using a slot by
-   * the same name to include links in the message.
+   * the same name to include links or other rich text. If this property and the
+   * slot are populated, the slot content takes precedence.
    *
    * @type {string}
    */
