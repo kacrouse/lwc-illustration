@@ -67,7 +67,10 @@ See the [SLDS Illustration page](https://www.lightningdesignsystem.com/component
 
 ```html
 <c-illustration heading="Lorem ipsum dolor" image-name="custom:no_task">
-  <a slot="messageBody" href="#">Learn More</a>
+  <p slot="messageBody" class="slds-text-body_regular">
+    Lorem ipsum dolor sit amet, consectetur&nbsp;
+    <a href="#">Learn More</a>
+  </p>
 </c-illustration>
 ```
 
