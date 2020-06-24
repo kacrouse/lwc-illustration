@@ -4,11 +4,13 @@
       if:false={textOnly}
       image-name={imageName}
     ></c-illustration-image>
-    <h3 class="slds-illustration__header slds-text-heading_medium">
-      {heading}
-    </h3>
-    <p class="slds-text-body_regular">
-      <slot name="messageBody">{messageBody}</slot>
-    </p>
+    <div class="slds-text-longform">
+      <h3 class="slds-illustration__header slds-text-heading_medium">
+        {heading}
+      </h3>
+      <p class="slds-text-body_regular">
+        <slot name="messageBody">{messageBody}</slot>
+      </p>
+    </div>
   </div>
 </template>
